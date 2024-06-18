@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">FinDa</string>
+    //salons
+    <string name="Tofboi_Barbers_name">Tofboi Barbers</string>
+    <string name="Tofboi_Barbers_location">Zone 2, Fatima Plaza, Suites A1, F5, 43 Mambolo St, Wuse, Abuja</string>
+    <string name="Tofboi_Barbers_review">Nice service delivery, the spa workers are doing a good job. All friendly, you will not run into any trouble using this place.</string>
+    <string name="Tofboi_Barbers_price">3000</string>
+
+    <string name="Ace_Of_Fades_Luxury_Barber_Shop_name">Ace Of Fades Luxury Barber Shop</string>
+    <string name="Ace_Of_Fades_Luxury_Barber_Shop_location">Suite 2 no.4 Salt Lake Street, Off Gana St, Maitama, Abuja</string>
+    <string name="Ace_Of_Fades_Luxury_Barber_Shop_review">First, the space is lovely and extremely neat. The customer service is also very good and delivery is top-notch.</string>
+    <string name="Ace_Of_Fades_Luxury_Barber_Shop_price">45</string>
+
+    <string name="Stone_cutz_Abuja_name">Stone Cutz Abuja</string>
+    <string name="Stone_cutz_Abuja_location">27 Agadez Street, off Aminu Kano Cres, adjacent Globalcom Office, Amac, Abuja 900001</string>
+    <string name="Stone_cutz_Abuja_review">Staff is easygoing and cool. The place is simply chill, relaxing, and warm.</string>
+    <string name="Stone_cutz_Abuja_price">3500</string>
+
+    <string name="GmG_Barbers_name">GmG Barbers</string>
+    <string name="GmG_Barbers_location">Ahmadu Bello Way, Gudu, Abuja 900110, Federal Capital Territory</string>
+    <string name="GmG_Barbers_review">Efficient, you will definitely get a good haircut. Pricing is not bad in comparison with the aesthetics.</string>
+    <string name="GmG_Barbers_price">3000</string>
+
+    <string name="Luxor_Spa_Abuja_Salon_and_Barbers_name">Luxor Salon &amp; Spa </string>
+    <string name="Luxor_Spa_Abuja_Salon_and_Barbers_location">792b Adetokunbo Ademola Cres, Wuse, Abuja 904101, Federal Capital Territory</string>
+    <string name="Luxor_Spa_Abuja_Salon_and_Barbers_review">If you can afford, go here for the premium haircut.</string>
+    <string name="Luxor_Spa_Abuja_Salon_and_Barbers_price">5000</string>
+
+
+    // eateries
+
+    <string name="Owanbe_Cuisine_name">Owanbe Cuisine</string>
+    <string name="Owanbe_Cuisine_address">9 AY Ahmed St, Trademore Phase 1, Lugbe 900109, Federal Capital Territory</string>
+    <string name="Owanbe_Cuisine_about">- Authentic Lagos party food in Abuja. - Dine in restaurant \'n\' lounge - Order your foods online at Owanbe cuisine 🍿🍽 - Abuja FCT Nigeria 🛒 - Free delivery to your doorstep</string>
+    <string name="Owanbe_Cuisine_review_summary">You get good food and a very comfy place. But the customer service is not complementary to all of this.</string>
+    <string name="Owanbe_Cuisine_price">1k to 4k</string>
+
+    <string name="Amala_And_More_Grillerz_Garden_name">Amala And More Grillerz Garden</string>
+    <string name="Amala_And_More_Grillerz_Garden_location">Grillerz garden, Pykasa Road, Lugbe 900107, Federal Capital Territory</string>
+    <string name="Amala_And_More_Grillerz_Garden_about">Sweet Place to chill, feel free, eat, and enjoy pure moments of bliss with friends and family.</string>
+    <string name="Amala_And_More_Grillerz_Garden_review">Amala and More is a cool joint, where you can go and relax have drinks with your friends, colleagues or even your family. The place is amazing if you enjoy open space dining.</string>
+    <string name="Amala_And_More_Grillerz_Garden_price">2k to 4k</string>
+
+    <string name="Aviel_Restaurant_name">Aviel Restaurant</string>
+    <string name="Aviel_Restaurant_address">Lugbe 900107, Federal Capital Territory</string>
+    <string name="Aviel_Restaurant_about">Aviel Restaurant is a new culinary destination that offers a range of creative, high-quality dishes inspired by cuisines from around the world. With a warm ambiance and top-notch service, it’s the perfect place to indulge in a memorable dining experience.</string>
+    <string name="Aviel_Restaurant_review">This place is the unnamed best restaurant in the region. Good food, good space, good staff, what else?.</string>
+    <string name="Aviel_Restaurant_price">4k to 6k</string>
+
+    <string name="Mummy_Jay_Restaurant_and_Bar_name">Mummy Jay Restaurant &amp; Bar</string>
+    <string name="Mummy_Jay_Restaurant_and_Bar_address">X949+Q2X, Lugbe 900107, Federal Capital Territory</string>
+    <string name="Mummy_Jay_Restaurant_and_Bar_about">This is the regular local mama put. With all the enticing attraction of local flavor and taste.</string>
+    <string name="Mummy_Jay_Restaurant_and_Bar_review">They serve delicious meals at a decent price. The jollof rice, goat meat with moi moi is quite fantastic and  totally recommended. Although, it usually isn\'t ready early enough.</string>
+    <string name="Mummy_Jay_Restaurant_and_Bar_price">15 to 3000</string>
+
+    <string name="Amala_Connect_location">Amala Connect FHA Lugbe, 1st Ave Fha, Lugbe 900107, Federal Capital Territory</string>
+    <string name="Amala_Connect_About">Has all you can eat · Has outdoor seating · Serves great cocktails</string>
+    <string name="Amala_Connect_review">"It's spacious Inside can take hundreds at a time But Amala Abuja is different from Ibadan or Oyo They need to improve on their recipes. Not expensive"</string>
+    <string name="Amala_Connect_meal_price">2k to 4k</string>
+
+
+    //boutique
+    <string name="Potter_Image_Boutique_M_name">Potter Image Boutique-M</string>
+    <string name="Potter_Image_Boutique_M_about">A home of quality outfits for men. We have the following in our stores: Suits, Safaris, Blazers, assorted chinos, Unisex sleeping robes, Jeans, Underwears, Shoes, Ties, Shirts, Tee-Shirts, Belt, Joggers, and other male fashion accessories. With us, quality is guaranteed. Shop now.</string>
+    <string name="Potter_Image_Boutique_M_location">124 Aminu Kano Cres, opposite Globalcom office by Titan Bank, Wuse 2, Abuja 904101, Federal Capital Territory</string>
+    <string name="Potter_Image_Boutique_M_review">Well, it\'s a place you can get clothes.</string>
+    <string name="Potter_Image_Boutique_M_categories">tee-shirt, Tie suits, sleeping ropes</string>
+
+    <string name="Boutique_in_Apo_Pick_n_Wear_M_name">Pick "n" Wear</string>
+    <string name="Boutique_in_Apo_Pick_n_Wear_M_about">Pick N Wear is a fashion boutique offering the sales of clothing and its accessories like jewelries, ladies shoes, and beads.</string>
+    <string name="Boutique_in_Apo_Pick_n_Wear_M_location">House No 2, Apo Resettlement, Zone D, Before PHCN Office, Apo Roundabout, Abuja</string>
+    <string name="Boutique_in_Apo_Pick_n_Wear_M_review">Well stocked, Nice interior and good service.</string>
+    <string name="Boutique_in_Apo_Pick_n_Wear_M_categories">Men Wear</string>
+
+    <string name="Brightway_Luxury_F_name">Brightway Luxury-F</string>
+    <string name="Brightway_Luxury_F_about">Brightway Fashion is a unique and private enclave fashion house set in the heart of Abuja with various sales outlet in and out of Abuja, Nigeria. We offer to our esteemed customers most of the world impressive fashion designers ranging from casuals to corporate wears with uncompromising quality and style.</string>
+    <string name="Brightway_Luxury_F_location">Adetokunbo Ademola Cres, Wuse, Abuja 904101, Federal Capital Territory</string>
+    <string name="Brightway_Luxury_F_review">Good professional service, guaranteed quality</string>
+    <string name="Brightway_Luxury_F_categories">SHOE CLOTHING ACCESSORIES BAGS</string>
+
+    <string name="Veras_Fashion_Emporium_F_name">Vera\'s Fashion Emporium - F</string>
+    <string name="Veras_Fashion_Emporium_F_about">UNISEX FASHION STORE EVERYTHING UNDER ONE ROOF CLOTH SHOE BAG FABRIC TAILORING/COUTURE BEDDING PERFUME ACCESSORY</string>
+    <string name="Veras_Fashion_Emporium_F_location">35 I.T. Igbani, Jabi, Abuja 900108, Federal Capital Territory</string>
+    <string name="Veras_Fashion_Emporium_F_review">If you want to service your wardrobe with cool, top quality, branded stuff plus great customer service every time.</string>
+    <string name="Veras_Fashion_Emporium_F_categories">FEMALE SHIRTS, Jerseys and tracksuit set, Luxury men shorts, Football boot</string>
+
+    <string name="Fashion_Feva_Boutique_F_name">FASHION FEVA Boutique-F</string>
+    <string name="Fashion_Feva_Boutique_F_about">Fashionfeva Boutique is a multi-brand retailer selling over 500 brands of women’s ware. This unique mixture of trendy, sophisticated, and contemporary clothing, handbags, shoes, cosmetics, jewelry, and accessories has made Fashion Feva an inviting and stunning one-stop-shop. We Provide Unique apparel and accessories for Women and Men who value Comfort, Style, and Versatility.</string>
+    <string name="Fashion_Feva_Boutique_F_location">Edad 22, Plaza, 1st Avenue, Gwarinpa, Abuja 900108, Federal Capital Territory</string>
+    <string name="Fashion_Feva_Boutique_F_review">Amazing collection and a variety of wears. Excellent customer service experience and beautiful ambience.</string>
+    <string name="Fashion_Feva_Boutique_F_categories">Women Ware</string>
+
+    <string name="Uniqcouture_Fashion_House_F_name">Uniqcouture Fashion House-F</string>
+    <string name="Uniqcouture_Fashion_House_F_about">Uniqcouture is a fashion house known for her unique and elegant masterpieces with high sustainable fashion quality for classic and ideal women, giving a guaranteed outstanding look. Our fashion business school is the No. 1 fashion business school in Nigeria, which is poised to equip passionate and enterprising people with competent fashion design skill and business skill to enable them to become bold and outstanding in a competitive fashion world.</string>
+    <string name="Uniqcouture_Fashion_House_F_location">MKK PLAZA, Gudu Electrical Parts Market, Oladipo Diya St, Junction, Abuja 900002, Federal Capital Territory</string>
+    <string name="Uniqcouture_Fashion_House_F_review">You definitely will find a lot of fantastic wears here!</string>
+    <string name="Uniqcouture_Fashion_House_F_categories"></string>
+
+    <string name="Dress_Island_Boutique_f_name">Dress Island Boutique-f</string>
+    <string name="Dress_Island_Boutique_f_about">We are The Work Dress Specialist! We provide exciting Work clothes and other wardrobe basics. You will love our pieces. We deliver worldwide too. See you soon!</string>
+    <string name="Dress_Island_Boutique_f_location">Samuel Ladoke Akintola Boulevard, Garki, Abuja 900110, Federal Capital Territory</string>
+    <string name="Dress_Island_Boutique_f_review">Cool place, cool cloths.</string>
+    <string name="Dress_Island_Boutique_f_categories">All Fashion Purpose, Corporate, Stylish 2piece</string>
+
+    <string name="Iran_Femi_Best_Bespoke_Fashion_Designer_M_name">Iran Femi - Best Bespoke Fashion Designer-M</string>
+    <string name="Iran_Femi_Best_Bespoke_Fashion_Designer_M_about">Iranfemi is a premium fashion brand that caters to the fashion needs of upwardly mobile professionals. We distinguish our clients from their peers and also make their presence memorable by leaving a lasting impression on their observers with our expertly tailored and perfect outfits. Additionally, our garments are crafted with the finest craftsmanship and an eye for detail. We always consider the best interest of client in our production and sales process.</string>
+    <string name="Iran_Femi_Best_Bespoke_Fashion_Designer_M_location">19 IBM Haruna St, Utako, Abuja 900108, Federal Capital Territory</string>
+    <string name="Iran_Femi_Best_Bespoke_Fashion_Designer_M_review">A very good fashion label, blessed with a creative mind, excellent execution, good customer relation, never disappoints</string>
+    <string name ="Iran_Femi_Category">Traditionals </string>
+
+    <string name="DY_Unique_Closet_M_name">DY Unique Closet-M</string>
+    <string name="DY_Unique_Closet_M_about">"We are a unique Men boutique store located on Adetokunbo Ademola Crescent, Wuse 2, Abuja. Our men's wears includes Suits, T-shirt, Belts, Shirts, watches, shoes, and other men's wears accessories. You can find us on Instagram at dyunique_closet, and dyunique77. We also have a location at EFAB mall, Area 11, Garki Abuja. At DY unique closet, your style is our passion. Our men's clothes are adequately priced to suit and accommodate your budget. Whatever your budget, we'll help you select the best outfits that suits your clothing needs. We are always delighted and excited to have you shop with us. Shop for men's clothes and wears at our boutique, today."</string>
+    <string name="DY_Unique_Closet_M_location">Studio 24 Mall, Adetokunbo Ademola Cres, Wuse 2, Abuja 904101, Federal Capital Territory</string>
+    <string name="DY_Unique_Closet_M_review">Classic and quality products and services, amazing staff. Good place to get wonderful wares.</string>
+    <string name="DY_Unique_Closet_M_categories">Shoe, Office shirts, Suits, T-shirt, Belts, Shirts, watches, shoes</string>
+
+    <string name="Celio_M_name">Celio-M</string>
+    <string name="Celio_M_about">"Celio * is a multi-specialist men's brand offering the best products of the male wardrobe"</string>
+    <string name="Celio_M_location">Lake Mall, Bala Sokoto Wy, Jabi, Abuja 900108, Federal Capital Territory</string>
+    <string name="Celio_M_review">This store has great and quality clothing with a very fair price.</string>
+    <string name="Celio_M_categories">General Men wears</string>
+
+    //automobile
+
+    <string name="Auto_Centre_Abuja_name">AUTO CENTRE ABUJA</string>
+    <string name="Auto_Centre_Abuja_location">Plot 466 Ahmadu Bello Wy, Garki 2, Abuja 900103, Federal Capital Territory</string>
+    <string name="Auto_Centre_Abuja_services">General</string>
+    <string name="Auto_Centre_Abuja_review">Service is not completely commensurate with cost, aside from other minor inconveniences.</string>
+
+    <string name="Auto_Repair_Centre_Abuja_name">Auto Repair Centre Abuja</string>
+    <string name="Auto_Repair_Centre_Abuja_location">Area 10, Garki 1, Abuja 900103, Federal Capital Territory</string>
+    <string name="Auto_Repair_Centre_Abuja_services">Air and cabin filter replacement, Air conditioning, Vehicle engine diagnostic, Battery, Body &amp; Trim, Brake service &amp; repair, Brakes, Electrical, Electrical repair, Exhaust, Oil change, Steering and suspension repair, Tyres, Transmission, Transmission repair, Wheel alignment</string>
+    <string name="Auto_Repair_Centre_Abuja_review">They are good at the craft, use these guys.</string>
+
+    <string name="Annapolis_Auto_Centre_name">Annapolis Auto Centre</string>
+    <string name="Annapolis_Auto_Centre_location">1074 Jabi Airport Road, Jabi, Abuja</string>
+    <string name="Annapolis_Auto_Centre_services">Vehicle maintenance, Car waxing, Oil change, Air Conditioning, Alarm System, Body Spray, Car Services, Express Service, Home Services, Mechanical Engineers, Oil Changing, Servicing And Maintenance, Spare Parts, Vehicle Repair Services, Voice Control</string>
+    <string name="Annapolis_Auto_Centre_review">They are industry grade professionals. They can handle it.</string>
+
+    <string name="CarFix_Service_Center_name">CarFix Service Center</string>
+    <string name="CarFix_Service_Center_location">No 156 Oba Olateru Olagbegi Street, Very close to NEXT CASH N CARRY, Abuja</string>
+    <string name="CarFix_Service_Center_services">A/C installation and repair, Air and cabin filter replacement, Air conditioning, Vehicle A/C recharge, Vehicle A/C replacement, Vehicle battery maintenance, Vehicle battery replacement, Vehicle body and trim repair, Vehicle body and trim replacement, Vehicle brake repair, Vehicle brake replacement, Auto detailing, Vehicle emissions testing, Vehicle engine diagnostic, Vehicle engine tuning, Vehicle exhaust system repair, Vehicle exhaust system replacement, Auto glass repair, Vehicle glass replacement, Vehicle interior vacuuming, Vehicle maintenance, Vehicle power window repair, Vehicle rear window replacement, Vehicle side window replacement, Vehicle sunroof glass replacement, Vehicle tyre replacement, Vehicle water leak repair, Battery, Body &amp; Trim, Brakes, Carburetor cleaning, Electrical, Electrical repair, Engine repair, Exhaust, General repairs &amp; maintenance, Oil change, Side view mirror repair, Steering and suspension repair, Steering and suspension replacement, Transmission, Transmission repair, Transmission replacement, Vehicle inspection, Vehicle safety inspection, Wheel alignment, Wiper blade installation, Air Condition Maintenance, Air Condition Repairs, Air Filter, Baked Spraying, Body Repair &amp; Spraying, Car Repairs, Computerized Diagnosis, Computerized Diagnostics, Cooling System, Diagnostics Inspection, Oil Change Service, Oven Spray, Preventive Maintenance, Repair And Maintenance, Routine Maintenance, Suspension Repairs, Transmission Fluid Change, Transmission Rebuild, Vehicle Repair Services, Wheel/Suspension</string>
+    <string name="CarFix_Service_Center_review">Tenebly one of the most ideal automobile repair workshops in Abuja.</string>
+
+    <string name="Auto_Spa_Limited_name">Auto Spa Limited</string>
+    <string name="Auto_Spa_Limited_location">Plot 92 Cad Zone B15 (near Mabushi Ultramodern Market) Katampe Road, Kado, Abuja 900001</string>
+    <string name="Auto_Spa_Limited_services">Air and cabin filter replacement, Air conditioning, Vehicle body and trim repair, Vehicle brake repair, Vehicle engine diagnostic, Vehicle interior vacuuming, Vehicle maintenance, Vehicle water leak repair, Body &amp; Trim, Car waxing, Engine repair, General repairs &amp; maintenance, Oil change, Tyre rotations, Tyres, Transmission, Wheel alignment, Air Conditioning Repair, Air Filter, Automobile Diagnosis, Automobile Workshop, Belts &amp; Hoses, Body Repairs, Brake Repair, Car Mechanics, Collision Repair, Computer Diagnostics, Computer Systems, Cooling System, Electrical Fault Tracing, Engine Cooling System Repair, Engine Repair And Diagnostics, Equipment Repairs, Exhaust / Muffler System Repair, Fleet Maintenance, Fluid Inspection, Highway Rescue/ Tow Service, Hvac System Repairs, Leak Test, Maintenance And Repairs, Mechanic Job, Oil Changes, Panel Beating, Premium Painting, Preventive Maintenance, Repair Plans, Routine Maintenance, Spare Parts, Steering And Suspension Repair, Tire Rotation, Tire Rotations, Tires Replacement, Transmission Service, Upholstery Repair, Vehicle Interior, Vehicle Lease, Vehicle Maintenance, Vehicle Purchase, Vehicle Repairs, Vehicle Upgrade, Wheel Alignment, Wheel Balancing</string>
+    <string name="Auto_Spa_Limited_review">Very professional service. Courteous staff, well-equipped workshop, timely diagnosis and repairs, plus free drop-off.</string>
+
+// hotels
+
+    <string name="Newton_Park_Hotels_and_Resort_name">Newton Park Hotels &amp; Resort</string>
+    <string name="Newton_Park_Hotels_and_Resort_address">Zone 4, 8 Cape Town, Wuse, Abuja 904101, Federal Capital Territory</string>
+    <string name="Newton_Park_Hotels_and_Resort_about">Add your about information here</string>
+    <string name="Newton_Park_Hotels_and_Resort_review">Best for the bottom upend. One of the nicest luxury you can buy at its price.</string>
+    <string name="Newton_Park_Hotels_and_Resort_price">90k</string>
+
+    <string name="Peace_Haven_Hotel_name">Peace Haven Hotel</string>
+    <string name="Peace_Haven_Hotel_address">112 Idris Gidado St, Wuye, Abuja 900108, Federal Capital Territory</string>
+    <string name="Peace_Haven_Hotel_about">Add your about information here</string>
+    <string name="Peace_Haven_Hotel_review">Mid, not excellent, just barely good, but not terrible in any way. Ideal for family vacation and relaxation.</string>
+    <string name="Peace_Haven_Hotel_price">90k</string>
+
+    <string name="Tranquil_Mews_Hotel_name">Tranquil Mews Hotel</string>
+    <string name="Tranquil_Mews_Hotel_address">Plot 1079 Okonjo Iweala Road, Abuja</string>
+    <string name="Tranquil_Mews_Hotel_about">Add your about information here</string>
+    <string name="Tranquil_Mews_Hotel_review">You will enjoy your stay, tidy and modest. The rate is affordable and the staff especially are courteous.</string>
+    <string name="Tranquil_Mews_Hotel_price">40k</string>
+
+    <string name="Hawthorn_Suites_by_Wyndham_Abuja_name">Hawthorn Suites by Wyndham Abuja</string>
+    <string name="Hawthorn_Suites_by_Wyndham_Abuja_address">1 Uke St, Garki 2, Abuja 900001, Federal Capital Territory</string>
+    <string name="Hawthorn_Suites_by_Wyndham_Abuja_about">Add your about information here</string>
+    <string name="Hawthorn_Suites_by_Wyndham_Abuja_review">This hotel is the best hotel in its class in the city of Abuja. Very clean, courteous staff, delicious food and cosy and quiet environment. The entire Abuja can be accessed within 15 minutes from the hotel. Excellent for business and for leisure.</string>
+    <string name="Hawthorn_Suites_by_Wyndham_Abuja_price">250k</string>
+
+    <string name="Aveon_Hotel_name">Aveon Hotel</string>
+    <string name="Aveon_Hotel_address">Plot 473 Ihechukwu Madubuike St, Guzape, Abuja 900110, Federal Capital Territory</string>
+    <string name="Aveon_Hotel_about">Add your about information here</string>
+    <string name="Aveon_Hotel_review">A serene hospitable zone that\'s also got a good architectural. The staff, the service, the rooms (look out for the swan-shaped towels on the bed) nice!</string>
+    <string name="Aveon_Hotel_price">60k</string>
+    <string name="Amala_connect_name">Amala Connect</string>
+    <string name="name_e">Name: \u0020  </string>
+    <string name="about">About: \u0020 </string>
+    <string name="address">Address:\u0020  </string>
+    <string name="services">Services:\u0020   </string>
+    <string name="categories">Categories:\u0020  </string>
+    <string name="price">Price: \u0020 </string>
+    <string name="popular_review">Popular Review:  \u0020</string>
+    <string name="barber_shop">BARBER SHOP</string>
+    <string name="BOUTIQUE">boutique_shops</string>
+    <string name="mechanics">AUTOMOBILE REPAIR</string>
+    <string name="restaurant">RESTAURANT</string>
+    <string name="hotel">HOTEL</string>
+    <string name="boutique_women">BOUTIQUE (WOMEN)</string>
+    <string name="men_boutique">BOUTIQUE (MEN)</string>
+    <string name="boutique">BOUTIQUE</string>
+
+</resources>
